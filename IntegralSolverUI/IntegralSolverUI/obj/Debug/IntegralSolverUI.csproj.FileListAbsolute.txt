@@ -1,0 +1,10 @@
+C:\Users\jsnak\source\repos\IntegralSolverUI\IntegralSolverUI\bin\Debug\IntegralSolverUI.exe.config
+C:\Users\jsnak\source\repos\IntegralSolverUI\IntegralSolverUI\bin\Debug\IntegralSolverUI.exe
+C:\Users\jsnak\source\repos\IntegralSolverUI\IntegralSolverUI\bin\Debug\IntegralSolverUI.pdb
+C:\Users\jsnak\source\repos\IntegralSolverUI\IntegralSolverUI\obj\Debug\IntegralSolverUI.csprojResolveAssemblyReference.cache
+C:\Users\jsnak\source\repos\IntegralSolverUI\IntegralSolverUI\obj\Debug\IntegralSolverUI.Form1.resources
+C:\Users\jsnak\source\repos\IntegralSolverUI\IntegralSolverUI\obj\Debug\IntegralSolverUI.Properties.Resources.resources
+C:\Users\jsnak\source\repos\IntegralSolverUI\IntegralSolverUI\obj\Debug\IntegralSolverUI.csproj.GenerateResource.Cache
+C:\Users\jsnak\source\repos\IntegralSolverUI\IntegralSolverUI\obj\Debug\IntegralSolverUI.csproj.CoreCompileInputs.cache
+C:\Users\jsnak\source\repos\IntegralSolverUI\IntegralSolverUI\obj\Debug\IntegralSolverUI.exe
+C:\Users\jsnak\source\repos\IntegralSolverUI\IntegralSolverUI\obj\Debug\IntegralSolverUI.pdb
